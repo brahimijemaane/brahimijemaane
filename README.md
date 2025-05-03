@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs3MWVrMGowdHpoaXBpaXlzYzdnbmx1OG1uMnZpMnJqeTVrYW0ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/td3rBUXf8gpZQC4L2W/giphy.gif"  />
+<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngxZWUzYjBzaXB1M2dsbjcyeXhvN2Z4ZWg2em1tcGU1NzRqcXJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bfI0PX9wjKTF0k/giphy.gif"  />
 
 ###
 
@@ -45,6 +45,17 @@
 
 ###
 
-<p align="left">**🔗 Contact Me:**  <br>📧 brahim@email.com *(replace with your email)*  <br>🌐 [Portfolio Website](https://trekrecipes.com)   <br>📄 [View My Gig](https://https://www.upwork.com/freelancers/brahimi3) *<br><br>Let’s build content that works—strategically and professionally. 💡<br><br>---<br><br>⭐️ *Don’t forget to follow me to stay updated with my latest work!*</p>
+<p align="left">**🔗 Contact Me:**  <br><br>📧 brahiim.ij90@gmail.com   <br>🌐 [Portfolio Website](https://trekrecipes.com)   <br>📄 [View My Gig](https://https://www.upwork.com/freelancers/brahimi3) *<br><br>Let’s build content that works—strategically and professionally. 💡<br><br>---<br><br>⭐️ *Don’t forget to follow me to stay updated with my latest work!*</p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
